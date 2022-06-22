@@ -20,7 +20,6 @@ print(table.info())
 print(table["Churn"].value_counts())
 print(table["Churn"].value_counts(normalize=True).map("{:.1%}".format))
 
-
 for column in table.columns:
     chart = px.histogram(table, x=column, color="Churn")
     chart.show()
