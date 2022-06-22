@@ -1,4 +1,4 @@
-# Data Analysis - telecom Churn problem
+# :chart_with_upwards_trend: Data Analysis - telecom Churn problem
 ## A telecom company has customers for various services, the main ones being Internet and telephone.
 ## The problem is that the company is experiencing a 26% customer churn.
 Using an Excel database we analyzed the common characteristics of the customers that canceled and we can conclude that:
