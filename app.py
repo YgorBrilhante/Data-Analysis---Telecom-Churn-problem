@@ -1,4 +1,5 @@
 import pandas as pd
+import plotly.express as px
 
 table = pd.read_csv("telecom_users.csv")
 
@@ -18,9 +19,6 @@ print(table.info())
 
 print(table["Churn"].value_counts())
 print(table["Churn"].value_counts(normalize=True).map("{:.1%}".format))
-
-
-import plotly.express as px
 
 
 for column in table.columns:
