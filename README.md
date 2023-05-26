@@ -20,3 +20,9 @@ Utilizando um banco de dados CSV, analisamos as características comuns dos clie
     
 - Algum problema no serviço de Fibra está causando o cancelamento dos clientes:
 -     Precisam ser abordadas as causas desse problema
+--- 
+### Alguns gráficos obtidos na análise:
+![servicofibra](https://github.com/YgorBrilhante/Data-Analysis---Telecom-Churn-problem/assets/107582543/ec6facb7-da2f-4d94-8cb6-9b1c7045e5dc)
+![estadocivil](https://github.com/YgorBrilhante/Data-Analysis---Telecom-Churn-problem/assets/107582543/a348d2d9-a5cd-41a0-90d5-c3cfd007dd9c)
+![tipodecontrato](https://github.com/YgorBrilhante/Data-Analysis---Telecom-Churn-problem/assets/107582543/e6d29864-c5a3-431c-a191-89dea18005f4)
+![mesescomocliente](https://github.com/YgorBrilhante/Data-Analysis---Telecom-Churn-problem/assets/107582543/f37721b0-ec43-4a63-8e14-9e5d9e8f0a35)
